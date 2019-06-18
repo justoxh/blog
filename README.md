@@ -1,3 +1,3 @@
 ### blog
 
-- [justoxh.github.io](https://justoxh.github.io)
+- [https://justoxh.github.io/blog](https://justoxh.github.io/blog/#/)
