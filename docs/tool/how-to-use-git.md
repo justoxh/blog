@@ -8,7 +8,7 @@
 ### 配置 Git
 
 ```
-$ git config --global user.name "Your Name"
+$ git config --global user.name "your name"
 $ git config --global user.email "email@example.com"
 ```
 
@@ -36,7 +36,7 @@ $ git config --global user.email "email@example.com"
 
 ### 远程仓库
 
-`git remote add origin git@github.com:ishaiua/isBlog.git` 添加远程仓库。
+`git remote add origin ` 添加远程仓库。
 
 `git push -u origin master` 初次提交。
 
