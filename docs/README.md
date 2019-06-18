@@ -1,8 +1,4 @@
----
-title: justoxh 专注区块链
----
-
-## justoxh 
+## justoxh 专注区块链
 
 ## 关于博主
 
